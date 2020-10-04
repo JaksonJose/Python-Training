@@ -4,6 +4,6 @@ This system is an exercise scheme that intends to register inside an external te
 
 ### What I've learned with this exercise?
 
-I've learned how to write a code using module concepts.
-I've learned how to structure the code in a clear, readable, and simple way.
-I've learned how to manipulate an external text file.
+- I've learned how to write a code using module concepts.  
+- I've learned how to structure the code in a clear, readable, and simple way.  
+- I've learned how to manipulate an external text file.  
