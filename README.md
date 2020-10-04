@@ -1,7 +1,9 @@
-# Python-Training
+# Python-Training Excercises
 
-Fist of all, that is my first repository. So,I just learned how a plenty of thing works.
+This system is an exercise scheme that intends to register inside an external text file the names and ages. This exercise aim is to write a program using modules and functions.
 
-My system is a improviment of an Python excercise. The exercises purpose is to build a program that register names and ages in a external text file. I increased the function of create and delete file.
+### What I've learned with this exercise?
 
-I learned how to create a program using modules and keep my coding more organized and clear. Other interesting things I learned was how to manipulate a external text file.
+I've learned how to write a code using module concepts.
+I've learned how to structure the code in a clear, readable, and simple way.
+I've learned how to manipulate an external text file.
